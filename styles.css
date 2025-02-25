@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #eca200;
+    --laranja-claro: #02861f;
 }
 
 body {
@@ -64,7 +64,7 @@ section {
     background-color: var(--laranja-claro);
     border-radius: 30px;
     border: none;
-    width: 14em;
+    width: 16em;
     /* Convertido para em aumenta o tamanho da fonte por tabela*/
     height: 3em;
     /* Convertido para em */
@@ -74,6 +74,7 @@ section {
 
 .display-4 {
     text-shadow: -5px 5px var(--laranja-claro);
+    width: 50rem;
 }
 
 
@@ -116,7 +117,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/png-clipart-graphics-font-brand-product-samba-text-brand.png');
+    background-image: url('');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
